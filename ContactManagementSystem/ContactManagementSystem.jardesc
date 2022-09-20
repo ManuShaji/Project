@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="E:/SpringBootWebApplication/ContactManagementService/ContactManagement.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ContactManagementSystem/ContactManagementSystem.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="true">
+        <javaElement handleIdentifier="=ContactManagementSystem/target\/generated-test-sources\/test-annotations=/ignore_optional_problems=/true=/=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/=/m2e-apt=/true=/"/>
+        <file path="/ContactManagementSystem/.gitignore"/>
+        <javaElement handleIdentifier="=ContactManagementSystem/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <file path="/ContactManagementSystem/HELP.md"/>
+        <file path="/ContactManagementSystem/.project"/>
+        <file path="/ContactManagementSystem/mvnw"/>
+        <folder path="/ContactManagementSystem/target"/>
+        <javaElement handleIdentifier="=ContactManagementSystem/target\/generated-sources\/annotations=/ignore_optional_problems=/true=/=/optional=/true=/=/maven.pomderived=/true=/=/m2e-apt=/true=/"/>
+        <file path="/ContactManagementSystem/pom.xml"/>
+        <file path="/ContactManagementSystem/mvnw.cmd"/>
+        <folder path="/ContactManagementSystem/src"/>
+        <file path="/ContactManagementSystem/.classpath"/>
+        <javaElement handleIdentifier="=ContactManagementSystem/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/"/>
+        <javaElement handleIdentifier="=ContactManagementSystem/src\/main\/resources=/maven.pomderived=/true=/"/>
+        <file path="/ContactManagementSystem/.factorypath"/>
+    </selectedElements>
+</jardesc>
